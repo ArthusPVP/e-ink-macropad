@@ -9457,7 +9457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:MODULE_ESP32-C3_SUPERMINI_TH"
+		(property "Footprint" "Library:MODULE_ESP32-C3_SUPERMINI"
 			(at 144.78 40.64 0)
 			(hide yes)
 			(show_name no)
